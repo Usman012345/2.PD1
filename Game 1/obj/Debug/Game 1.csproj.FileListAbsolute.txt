@@ -1,0 +1,10 @@
+E:\PD\PDlab1\Game 1\bin\Debug\Game 1.exe.config
+E:\PD\PDlab1\Game 1\bin\Debug\Game 1.exe
+E:\PD\PDlab1\Game 1\bin\Debug\Game 1.pdb
+E:\PD\PDlab1\Game 1\obj\Debug\Game 1.csproj.AssemblyReference.cache
+E:\PD\PDlab1\Game 1\obj\Debug\Game_1.Form1.resources
+E:\PD\PDlab1\Game 1\obj\Debug\Game_1.Properties.Resources.resources
+E:\PD\PDlab1\Game 1\obj\Debug\Game 1.csproj.GenerateResource.cache
+E:\PD\PDlab1\Game 1\obj\Debug\Game 1.csproj.CoreCompileInputs.cache
+E:\PD\PDlab1\Game 1\obj\Debug\Game 1.exe
+E:\PD\PDlab1\Game 1\obj\Debug\Game 1.pdb
